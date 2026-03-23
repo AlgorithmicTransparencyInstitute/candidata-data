@@ -15,8 +15,8 @@ CandiData 2024 is a publicly available dataset of social media handles for all c
 
 | File | Description |
 |------|-------------|
-| `candidata_2024_handles.csv` | Candidate attributes and social media handles for all 2024 U.S. federal candidates |
-| `codebook.csv` | Variable names, descriptions, formats, and sources for all fields in the handles dataset |
+| `candidates.csv` | Candidate attributes and social media handles for all 2024 U.S. federal candidates |
+| COMING SOON | Variable names, descriptions, formats, and sources for all fields in the handles dataset |
 
 ---
 
