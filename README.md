@@ -47,7 +47,7 @@ For incumbents running for re-election, the dataset additionally includes:
 - ICPSR ID
 - First-dimension DW-NOMINATE ideology score
 
-See the `codebook.csv` for the full list of variables, their formats, and data sources.
+
 
 ### Posts Data Summary
 
@@ -61,7 +61,7 @@ Post-level variables include post content, publish timestamp, engagement metrics
 
 ### Handles Data (This Repository)
 
-The candidate attributes and handles dataset is publicly available here on GitHub. Download `candidata_2024_handles.csv` directly or clone the repository.
+The candidate attributes and handles dataset is publicly available here on GitHub. Download `candidates.csv` directly or clone the repository.
 
 ### Interactive Dashboard
 
